@@ -1,0 +1,2 @@
+# class
+highschool_class
